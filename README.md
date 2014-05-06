@@ -1,1 +1,1 @@
-##   run_analysis usage
+##   How to use run_analysis.R script
