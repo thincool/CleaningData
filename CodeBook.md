@@ -21,6 +21,7 @@ others : The average of each signs for each activity and each subject. The signs
 
 # Transformations and Clean work
 The tidy data is come from UCI HAR Dataset.
+
 1. Put subject and activity data and signs data together, then combine test and train data into full data set.
 
 2. Create sub data set from full data set by used only mean and standard deviation sign columns.
