@@ -8,9 +8,9 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc_XYZ, fBodyAccJerk_XYZ, fBodyGyro_XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
 
 The set of variables that were estimated from these signals are: 
-mean(): Mean value
-std(): Standard deviation
-And the function show in middle of the feature name, as tBodyGyro_mean_X.
+mean(): Mean value.
+std(): Standard deviation.
+ And the function show in middle of the feature name, as tBodyGyro_mean_X.
 
 ## Tidy data description.
 subject : An identifier of the subject who carried out the experiment. From 1 to 30.
