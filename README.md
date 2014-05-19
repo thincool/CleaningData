@@ -1,8 +1,11 @@
 ## Getting and Cleaning Data Project
 ## Files
 Readme.md : This file. 
+
 run_analysis.R : R script file for merge and create tidy data set from UCI HAR Dataset.
+
 CodeBook.md : Tidy data set the variables description, and transformations or work that performed for project.
+
 tidy.csv.txt: Tidy data set csv file created by run_analysis.R.
 
 ##   How to use run_analysis.R script
